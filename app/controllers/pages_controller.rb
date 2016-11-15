@@ -1,10 +1,18 @@
 class PagesController < ApplicationController
-  def about
+	#backend for index	
+  def index
   end
 
+  #backedn for home
   def home
   end
 
-  def contact
+  #backenf for profile
+  def profile
   end
+
+  #backend for explore
+  def explore
+  end
+  
 end
